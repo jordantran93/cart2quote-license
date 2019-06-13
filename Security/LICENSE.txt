@@ -1,0 +1,27 @@
+<?php //005a1
+// Cart2Quote is a commercial software module for Magento.
+// Unpaid usage of our licensed functionalities is prohibited.
+// See www.cart2quote.com for more details.
+if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+?>
+HR+cPnsw3/7mXlJ6/GoQqdAGvSEmYhSOmMqP7ViXD3Q5AUr6Rg68svOVm3MMLh5B9Q6RAnxsG8eP
+TiLdQXb4gwRpSS0XfqZFXH5yOjHyzhu82bxOuupZQe3xWhET+cHa7ai0Z1Q0sYxRmMnfV59D8+FS
+UL9Zwxr0rVfazjr4AXYXJrGpy6d9sEVDgQzbfTAy3ayVz3ak+brFp8JU9ahTMetmBygSuGuJ+J1q
+K+Ue2w7nQL1YednlMdHmwdE995FVxmUTBpQ5PjdAktRitFpfxSPGIcir2VnCO8WrKVdriwZDYXqi
+MKXrHNQfPcnJZyIX+jBOuLB/utg3UjK/Kcti+cYnrGicOiMmBw4Kw7/9H3djdneiBaA2ndMkezWB
+2G0KN/+hSs4Gx7A45Vb+z2KjVZbyU+3gyv57pbFsvdlxw0AOdtUItMoknIqiXJfZJFkpZ6SMv8kZ
+zvuRnQysHbCYqMYcNfz4aeU6rxC7n6qInl6JlEmxTsImCAh1iQAQZ2XA6+e5hh4jUPXfiadShxEG
+HcbUCNpaFMx32Nlc71ZhVsUMUz/jFlMgv9fkmWaKbz/yJJ29jdkErpEtz+HzIHnd3sXNwmVGAteB
+63Y85Iem6GgI+r/BBt0rcNWmet13qot9joZXnBK4fyiE3P1gWEsG/XocMU2LLEIT8mhpmaPMM/yO
+WALb9+qR10bVUwjkok1qW1+vkZ5gyksLzPO3R8FE0Gr8uUWeQF2UjO4kOmvBJ/tm3FVG1Aa2AunB
+z5pSHJE4Do1OW9aAV2fDtRStYxNFSTcrOW16msWxGeM0hn3yj5CKFhT69CBNtuKR9WTHVYX/P42Z
+DD5zJjFcUiL5Ibn7OfLDpP506L+C/mCZqES2067DeVkSMxUkIsObcD8HISdK3g6s3bZwvaYiG73P
+WDWzFIA6pE66zpVskXIiE1XLG6cPvBHYeV6W1vHdkU8dqkfGhpK1dKM0R+VIBO85vFVc92JHCzx4
+o/J/0Uys+ckQQIDzTU0nEzjaLygv2GVA0uiwMk4fP2L25e49N3A4WDeiXVwpSc1iTZ0kIQYioFO1
+72ViAm8XJ5d/vw5OeQjXGiMo9Tevwh0R8qtCd4G22FerIfmhCcSupkOjsdAeYMs55IeQvZ1NutHa
+V3BAlvffCQHX1LhZDsbBe4UmEx5bzd/S8Ho3PvpTfuLRLCr7B5VYeEus9oSBjVt1JvSLyCDDlJth
+8hIX0ljStwAkS8nTpxL6uWNz6bSAQz/31s+S/wTnNdNsz35sNoNdP6yovblfQKLPl7T7hnK1Joym
+KfIsLtCHZeCTyJ0zGmr7gXrCMNG4bbsS9RzdKIdIPFD4qbg/fnc+iUfuLDood8vGAD8/rP8Rez3J
+Tae6wQz+i0mSYYXWP50JIQQFxAQU413yDb/NYRXV4TZu2x7dImwx6+7QajkZrzhXYDNXtQp9fjbC
+JGxZhHx2u3RL5rezv7UdoWw2cK763oPEWj0pNncj77zS6OTX15XiQKoblFuWtEaiqffCw34TPMMp
+7hE28m==

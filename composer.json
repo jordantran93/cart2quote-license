@@ -1,0 +1,19 @@
+{
+    "name": "cart2quote/module-license",
+    "description": "",
+    "license": "proprietary",
+    "version": "106.0.71",
+    "require": {
+        "php": "~7.1.0",
+        "cart2quote/module-features": ">=215"
+    },
+    "type": "magento2-module",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Cart2Quote\\License\\": ""
+        }
+    }
+}
